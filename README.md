@@ -1,0 +1,2 @@
+# equiperenner
+Jogo da forca
